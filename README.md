@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJS and MongoDB
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : alay.kharadi3@gmail.com 
 
 <!---
 AlayKharadi/AlayKharadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
